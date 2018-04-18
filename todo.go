@@ -3,7 +3,7 @@ package main
 import (
 	"database/sql"
 
-	"go-echo-vue/handlers"
+	"github.com/t-0-m-1-3/go-echo-vue/handlers"
 
 	"github.com/labstack/echo"
 	_ "github.com/mattn/go-sqlite3"
